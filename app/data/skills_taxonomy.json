@@ -1,0 +1,11 @@
+{
+  "Programming Languages": ["python", "java", "javascript", "typescript", "c++", "c", "c#", "go", "rust", "kotlin", "swift", "php", "ruby", "r", "scala", "matlab", "dart"],
+  "Web Development": ["html", "css", "react", "react.js", "next.js", "vue", "angular", "redux", "tailwind", "tailwind css", "bootstrap", "sass", "jquery", "rest api", "graphql", "webpack", "vite"],
+  "Frameworks": ["fastapi", "django", "flask", "spring", "spring boot", "express", "express.js", "node.js", ".net", "laravel", "rails"],
+  "Databases": ["sql", "mysql", "postgresql", "postgres", "mongodb", "sqlite", "redis", "oracle", "firebase", "dynamodb", "cassandra", "elasticsearch"],
+  "Cloud": ["aws", "azure", "gcp", "google cloud", "ec2", "s3", "lambda", "docker", "kubernetes", "terraform", "ci/cd", "jenkins", "devops", "heroku", "vercel", "netlify"],
+  "AI/ML": ["machine learning", "deep learning", "nlp", "natural language processing", "computer vision", "tensorflow", "pytorch", "keras", "scikit-learn", "pandas", "numpy", "opencv", "llm", "generative ai", "data science", "neural networks", "hugging face", "transformers"],
+  "Tools": ["git", "github", "gitlab", "jira", "postman", "figma", "linux", "vs code", "bash", "shell scripting", "agile", "scrum", "excel", "power bi", "tableau"],
+  "Soft Skills": ["communication", "teamwork", "leadership", "problem solving", "time management", "collaboration", "adaptability", "critical thinking", "presentation", "mentoring"],
+  "System Design": ["system design", "load balancing", "caching", "microservices", "api design", "distributed systems", "scalability", "message queue", "kafka", "rabbitmq"]
+}

@@ -1,0 +1,8 @@
+node_modules
+node_modules/
+.venv/
+.env
+__pycache__/
+*.pyc
+dist/
+resume_analyzer.db
