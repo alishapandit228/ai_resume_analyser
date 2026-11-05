@@ -227,7 +227,7 @@ engine (score ranges, matched/missing skill detection).
 
 ## Future improvements
 
-- Real authentication (OAuth/JWT) instead of the placeholder `User` model
+- Real authentication (OAuth/JWT) instead of the placeholder `User` model.
 - Async resume parsing with a background job queue for large files.
 - Fine-tuned/embedding-based semantic matching in addition to TF-IDF.
 - OCR fallback for scanned/image-based PDFs.
