@@ -217,7 +217,7 @@ engine (score ranges, matched/missing skill detection).
 ## Security & privacy notes
 
 - File type and size are validated before any parsing happens.
-- API keys are read from environment variables and never sent to the browser
+- API keys are read from environment variables and never sent to the browser.
 - Users can delete any uploaded resume (and its file + analyses) from Settings
 - Full resume text is stored to power analysis, but nothing beyond what's
   needed for that is logged
