@@ -221,7 +221,7 @@ engine (score ranges, matched/missing skill detection).
 - Users can delete any uploaded resume (and its file + analyses) from Settings.
 - Full resume text is stored to power analysis, but nothing beyond what's
   needed for that is logged.
-- The app clearly labels every score as an *estimate* for the user to review
+- The app clearly labels every score as an *estimate* for the user to review.
 
 ---
 
