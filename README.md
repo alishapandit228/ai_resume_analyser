@@ -5,10 +5,7 @@ compatibility score, a skills/experience/education/project match breakdown,
 a prioritized skill gap list, and a personalized learning roadmap.
 
 
-> **Disclaimer:** All scores are AI-generated compatibility estimates, not
-> hiring predictions. The app never fabricates resume content — every
-> extracted fact comes from the resume itself; suggestions are always
-> labeled as suggestions.
+
 
 ---
 
