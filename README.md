@@ -1,9 +1,6 @@
 # Resolve — AI Resume Analyzer & Job Matching Platform
 
-Resolve analyzes a resume against a real job description and turns the gap
-between them into a concrete, week-by-week improvement plan — an ATS
-compatibility score, a skills/experience/education/project match breakdown,
-a prioritized skill gap list, and a personalized learning roadmap.
+
 
 > **Disclaimer:** All scores are AI-generated compatibility estimates, not
 > hiring predictions. The app never fabricates resume content — every
